@@ -1,16 +1,15 @@
-### Hi there 👋
+Daniel Markmann
+Hello! I'm a Software Engineer and passionate about AI development and usage. I created this GitHub account to showcase my projects, collaborate with other developers, and most importantly learn new things.
 
-<!--
-**danmarkmann/danmarkmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Here are some of the technologies and tools I'm familiar with:
 
-Here are some ideas to get you started:
+Rust, Python, C++
+Django, Flask
+MySql, Pinecone, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Contact
+You can reach me at djm@danielmarkmann.com or connect with me at https://www.linkedin.com/in/daniel-markmann-05678922a/.
+
+Looking forward to connecting with you!
