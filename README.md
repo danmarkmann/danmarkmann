@@ -12,4 +12,3 @@ MySql, Pinecone, MongoDB
 ### Contact
 You can reach me at djm@danielmarkmann.com or connect with me at https://www.linkedin.com/in/daniel-markmann-05678922a/.
 
-Looking forward to connecting with you!
