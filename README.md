@@ -1,5 +1,5 @@
 # Daniel Markmann
-Hello! I'm a Software Engineer and passionate about AI development and usage. I created this GitHub account to showcase my projects, collaborate with other developers, and most importantly learn new things.
+Hello! I'm a Software Engineer and passionate about AI development and usage.
 
 ## Skills
 Here are some of the technologies and tools I'm familiar with:
